@@ -1,2 +1,2 @@
 # HTML_test
-For doing some exercise
+For doing some exercises
